@@ -1,0 +1,7 @@
+#######################
+/Updater/bin/Release/*
+!/Updater/bin/Release/Updater.exe
+#######################
+/Updater/bin/Debug/*
+#######################
+Updater/obj/*
